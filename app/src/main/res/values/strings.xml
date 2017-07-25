@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recipe_detail">RecipeDetail</string>
+    <string name="title_activity_ingredients">IngredientsActivity</string>
+    <string name="title_stepitem_list">Items</string>
+    <string name="title_stepitem_detail">StepItem Detail</string>
+    <string name="network_message">Please check network connection to play the video </string>
+    <string name="no_video">There is not a video to this Step </string>
+    <string name="unAvailable">This video is unavailable .</string>
+</resources>
